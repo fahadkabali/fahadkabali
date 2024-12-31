@@ -47,7 +47,6 @@ I am **<a href="https://fahadkabali.netlify.app/" target="_blank"> Kabali Fahad<
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-![Ansible Role](https://img.shields.io/ansible/role/d/:namespace/:name)
 
 
 
