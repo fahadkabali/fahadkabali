@@ -48,7 +48,6 @@ I am **<a href="https://fahadkabali.netlify.app/" target="_blank"> Kabali Fahad<
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](#)
 [![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white)](#)
-[![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white)](#)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](#)
 
